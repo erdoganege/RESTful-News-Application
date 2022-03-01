@@ -1,4 +1,4 @@
-# NewsApplication
+# News Application
 
 This Android Application take the data from the news agency’s **RESTful web service.**
 
